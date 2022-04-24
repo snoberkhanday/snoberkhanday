@@ -16,7 +16,7 @@
 🎮 I play Valorant, Counter Strike  .   <br />
 
 * 🌍  I'm based in India, Kashmir
-* 🖥️  See my portfolio at [About me](http://https://www.linkedin.com/in/snoberkhanday/)
+* 🖥️  See my portfolio [here](http://https://www.linkedin.com/in/snoberkhanday/)
 * ✉️  You can contact me at [snoberkhanday@gmail.com](mailto:snoberkhanday@gmail.com)
 * 🧠  I'm learning Next JS | TypeScript
 
