@@ -1,10 +1,16 @@
-Hi 👋 My name is Snober khanday
+### Hi there, I'm Snober khanday - aka [codewithsnowy]👋
 ===============================
 
-Software Developer
+I'm a Software Developer
 ------------------
 
-🔭 I'm working on my first course "Become an HTML & CSS Expert" 🌱 I’m currently learning MERN Stack. 🧑‍💻 I hunt down bugs and eat them for breakfast. 👯 I’m looking to collaborate with other content creators. 🥅 2022 Goals: Learn new Technologies & contribute more to OSP. ⚡ Fun fact: I have a broken humor. 🎮 I play Valorant, Counter Strike .
+🔭 I'm working on my first course "Become an HTML & CSS Expert" 
+🌱 I’m currently learning MERN Stack. 
+🧑‍💻 I hunt down bugs and eat them for breakfast. 
+👯 I’m looking to collaborate with other content creators. 
+🥅 2022 Goals: Learn new Technologies & contribute more to OSP. 
+⚡ Fun fact: I have a broken humor. 
+🎮 I play Valorant, Counter Strike .
 
 * 🌍  I'm based in India, Kashmir
 * 🖥️  See my portfolio at [About me](http://https://www.linkedin.com/in/snoberkhanday/)
