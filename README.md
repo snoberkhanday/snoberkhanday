@@ -51,7 +51,7 @@
 
 ### Support Me
 
-<a href="https://www.buymeacoffee.com/snoberkhanday"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="100" /></a>
+<a href="https://www.buymeacoffee.com/snoberkhanday"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" /></a>
 ### 📕 Latest Quora Posts
 
 <!-- BLOG-POST-LIST:START -->
