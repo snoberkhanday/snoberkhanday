@@ -1,16 +1,17 @@
 ### Hi there, I'm Snober khanday - aka [codewithsnowy]👋
-===============================
 
-I'm a Software Developer
-------------------
+[![Twitter Follow](https://img.shields.io/twitter/follow/codewsnowy?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fcodewsnowy&screen_name=codewsnowy)
 
-🔭 I'm working on my first course "Become an HTML & CSS Expert" 
-🌱 I’m currently learning MERN Stack. 
-🧑‍💻 I hunt down bugs and eat them for breakfast. 
-👯 I’m looking to collaborate with other content creators. 
-🥅 2022 Goals: Learn new Technologies & contribute more to OSP. 
-⚡ Fun fact: I have a broken humor. 
-🎮 I play Valorant, Counter Strike .
+<br />
+<br />
+
+🔭 I'm working on my first course "Become an HTML & CSS Expert"  <br />
+🌱 I’m currently learning MERN Stack.                             <br />
+🧑‍💻 I hunt down bugs and eat them for breakfast.      <br />
+👯 I’m looking to collaborate with other content creators.           <br />
+🥅 2022 Goals: Learn new Technologies & contribute more to OSP.       <br />
+⚡ Fun fact: I have a broken humor. <br />
+🎮 I play Valorant, Counter Strike  .   <br />
 
 * 🌍  I'm based in India, Kashmir
 * 🖥️  See my portfolio at [About me](http://https://www.linkedin.com/in/snoberkhanday/)
