@@ -5,6 +5,8 @@
 <br />
 <br />
 
+## I'm a Front-end Developer and Certified Penetration Tester
+
 🔭 I'm working on my first course "Become an HTML & CSS Expert"  <br />
 🌱 I’m currently learning MERN Stack.                             <br />
 🧑‍💻 I hunt down bugs and eat them for breakfast.      <br />
