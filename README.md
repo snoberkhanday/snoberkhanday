@@ -5,7 +5,7 @@
 
 ## I am a Front-end Developer, Professional Graphic and UI/UX Designer. 
 
-🔭 I design things for web."  <br />
+🔭 I design things for web.  <br />
 🌱 I’m currently learning UX Design.                             <br />
 🧑‍💻 I hunt down bugs and eat them for breakfast.      <br />
 👯 I’m looking to collaborate with professional designers.           <br />
