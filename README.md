@@ -1,24 +1,21 @@
-### Hi there, I'm Snober khanday - aka [codewithsnowy]👋
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewsnowy?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fcodewsnowy&screen_name=codewsnowy)
+### Hi there, I'm Snober khanday 
 
 <br />
 <br />
 
-## I'm a Front-end Developer and Certified Penetration Tester
+## I am a Front-end Developer, Professional Graphic and UI/UX Designer. 
 
-🔭 I'm working on my first course "Become an HTML & CSS Expert"  <br />
-🌱 I’m currently learning MERN Stack.                             <br />
+🔭 I design things for web."  <br />
+🌱 I’m currently learning UX Design.                             <br />
 🧑‍💻 I hunt down bugs and eat them for breakfast.      <br />
-👯 I’m looking to collaborate with other content creators.           <br />
-🥅 2022 Goals: Learn new Technologies & contribute more to OSP.       <br />
+👯 I’m looking to collaborate with professional designers.           <br />
+🥅 2024 Goals: Learn new Technologies & contribute more to Designing Community.       <br />
 ⚡ Fun fact: I have a broken humor. <br />
 🎮 I play Valorant, Counter Strike  .   <br />
 
 * 🌍  I'm based in India, Kashmir
-* 🖥️  See my portfolio [here](http://https://www.linkedin.com/in/snoberkhanday/)
+* 🖥️  See my portfolio [here](http://https://www.snoberkhanday.vercel.app)
 * ✉️  You can contact me at [snoberkhanday@gmail.com](mailto:snoberkhanday@gmail.com)
-* 🧠  I'm learning Next JS | TypeScript
 
 ### Skills
 
