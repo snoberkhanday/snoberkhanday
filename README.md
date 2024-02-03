@@ -1,4 +1,4 @@
-## Snober Khanday - Professional Graphic Designer
+## Snober Khanday
 Welcome to my creative space! I'm Snober Khanday, a passionate Graphic Designer based in the picturesque region of Kashmir. <br />My focus is on crafting delightful, human-centered experiences that leave a lasting impact on users' lives. I thrive on the process of bringing digital products to life, building my ideas, and indulging my passion for all things creative.
 
 ## About Me
